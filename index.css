@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(255, 243, 238);
+  color: black;
+}
+.modal-content {
+  background-color: rgb(244, 248, 240);
+  width: min-content;
+  border: 10px solid rgb(255, 255, 255);
+  margin: 60px auto ;
+  min-width:150px ;
+  columns: black;
+}
+a {
+  text-decoration: none;
+  font-size: 2rem;
+  display: block;
+  margin: auto;
+  text-align: center;
+  color: black;
+}
+
+p {
+  font-size: 2rem;
+  margin: auto;
+  text-align: center;
+  color: black;
+  margin-bottom: 6;
+}
+a:hover {
+  color: rgba(62, 38, 63, 0.801);
+}
